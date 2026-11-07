@@ -32,3 +32,4 @@ Serviços disponíveis:
 - **PostgreSQL 16**: `localhost:5432` (`corebanking_ledger`)
 - **RabbitMQ Management UI**: [http://localhost:15672](http://localhost:15672) (`guest` / `guest`)
 - **LocalStack (AWS S3/SQS)**: `http://localhost:4566`
+

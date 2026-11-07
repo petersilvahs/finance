@@ -32,3 +32,4 @@ Em entrevista técnica para Corebanking, os avaliadores avaliam os **4 Pilares d
 | Array `.map()`, `.filter()`, `.reduce()` | **LINQ**: `.Select()`, `.Where()`, `.Sum()` | Consultas no domínio e no Entity Framework |
 | Prisma / TypeORM | **Entity Framework Core (EF Core)** + **Dapper** | EF Core para transações complexas; Dapper para leitura ultra-rápida de extrato |
 | Jest (`describe`, `it`, `expect`, `jest.fn()`) | **xUnit** (`[Fact]`, `[Theory]`) + **FluentAssertions** + **Moq/NSubstitute** | Testes unitários de domínio e casos de uso |
+
